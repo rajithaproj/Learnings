@@ -15,8 +15,8 @@ Created on Thu Jun  6 19:52:32 2019
 #
 #print("person age is: ",age)
 
-#person = "Rama"
-#is_friend = True
+#person = "Python"
+# #is_friend = True
 #aggresive = True
 #if (is_friend and not aggresive):
 #    print("Invite "+person +" to party")
